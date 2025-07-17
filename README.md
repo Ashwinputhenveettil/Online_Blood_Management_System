@@ -84,7 +84,7 @@ Then open http://localhost:5000 in your browser.
 
 | Name | GitHub |
 |------|--------|
-| A Sai Vara Prasad Reddy | [@AVSPGitHub](https://github.com/ASVPREDDY) | 
+| A Sai Vara Prasad Reddy | [@ASVPGitHub](https://github.com/ASVPREDDY) | 
 | N Paul Prasanna Kumar | [@PaulGitHub](https://github.com/Paul9441) |
 | G Shyam | [@ShyamGitHub](https://github.com/gangolashyam) |
 |C H Rajesh |
